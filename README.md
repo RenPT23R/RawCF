@@ -4,3 +4,5 @@ So this is RawCF, which stands for Raw Compressed File, it may look confusing, b
 i wouldnt use my time to paste them here so THIS IS RawCF
 
 Have a great day :D
+
+also it only works with ANSI files for now
